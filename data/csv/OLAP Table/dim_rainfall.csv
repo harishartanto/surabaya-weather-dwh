@@ -1,0 +1,7 @@
+sk,rainfall_intensity,pcp_min,pcp_max,last_update
+1,Cloudy,0.0,0.4,2024-12-03 08:46:56
+2,Light rain,0.5,20.0,2024-12-03 08:46:56
+3,Moderate rain,20.1,50.0,2024-12-03 08:46:56
+4,Heavy rain,50.1,100.0,2024-12-03 08:46:56
+5,Very heavy rain,100.1,150.0,2024-12-03 08:46:56
+6,Extreme rain,151.0,1000.0,2024-12-03 08:46:56
